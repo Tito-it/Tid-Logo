@@ -33,5 +33,5 @@ Se hai bisogno di una versione specifica del logo, puoi scaricarla dai file di q
 📬 Contattami
 
 Se hai domande o vuoi ottenere una licenza commerciale per l’uso del logo, puoi contattarmi qui:
-📩 Email: [Tua Email o PEC]
+📩 Email: [mc.titini@gmail.com mc.titini@postecert.it]
 🔗 Repository ufficiale: https://github.com/Tito-it/Tid-logo
